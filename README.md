@@ -1,1 +1,1 @@
-# Predict future prices with machine learaning principles
+# Predict future prices with machine learning principles
